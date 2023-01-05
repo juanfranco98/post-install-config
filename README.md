@@ -58,8 +58,14 @@ Continuiue by creating the Teams "Level I Support" and "Level II Support". From 
 </p>
 <p>
  Now you must make it so that anonymous users can create tickets even if they arent a user of the actual system. To do this go to settings, then user settings, and make sure that "Registration Required" is unchecked.
- 
- 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/zNv25dV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ We must now create a couple Agents(workers) that we can use to sign in and out of osTicket with to see how tickets would actually look from a workers view. Do this by going to the Agents panel and then selecting "Add New". You can use whatever names you'd like, but for simplicity we'll use Jane and John. Create a fake email for each as well as a username. Make sure to uncheck the box that would require password resets as the email doesnt actually exist. Make everyones passwords the same so it isn't forgotten since this is just for practice.
  
  
  
