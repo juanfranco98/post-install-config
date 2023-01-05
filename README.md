@@ -90,13 +90,9 @@ The next step is to configure some SLA Plans. The plans typically depend on the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/FPDsD5v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ts8sPm1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lastly, configure a couple realistic help topics that might come up in an actual position. Do this by going to"Manage" and then "Help Topics" within the Admin Panel. Some examples would be Business Critical Outage, Equiptment Requests, and password resets.                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
-                                                                                                       
+Lastly, configure a couple realistic help topics that might come up in an actual position. Do this by going to"Manage" and then "Help Topics" within the Admin Panel. Some examples would be Business Critical Outage, Equiptment Requests, and password resets and add them to the existing list of default help topics.                     
+  
+   Well Done!                                                                                                                                          
