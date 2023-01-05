@@ -52,3 +52,15 @@ Next, configure Departments by following this path: Admin Panel -> Agents -> Dep
 Continuiue by creating the Teams "Level I Support" and "Level II Support". From the Admin Panel go to Agents and then Teams.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/wNrJG20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ Now you must make it so that anonymous users can create tickets even if they arent a user of the actual system. To do this go to settings, then user settings, and make sure that "Registration Required" is unchecked.
+ 
+ 
+ 
+ 
+ 
+ 
