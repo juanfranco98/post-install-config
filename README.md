@@ -86,8 +86,14 @@ The next step is to configure some SLA Plans. The plans typically depend on the 
  -Sev-B (4 hours, 24/7)
  -Sev-C (8 hours, business hours)
  Make sure you're on the admin panel to do this. Go to "Manage" then "SLA" and click "Add New SLA Plan". Enter the examples then save.
+</p>
+<br />
 
-                                                                                                       
+<p>
+<img src="https://i.imgur.com/FPDsD5v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lastly, configure a couple realistic help topics that might come up in an actual position. Do this by going to"Manage" and then "Help Topics" within the Admin Panel. Some examples would be Business Critical Outage, Equiptment Requests, and password resets.                                                                                                       
                                                                                                        
                                                                                                        
                                                                                                        
