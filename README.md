@@ -78,12 +78,19 @@ Lets now create some users(customers) by going to the "Agent Panel" then "Users"
 <br />
 
 <p>
-<img src="https://i.imgur.com/zNv25dV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FPDsD5v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- iutuiytkg8uyk
- 
- 
- 
- 
- 
+The next step is to configure some SLA Plans. The plans typically depend on the company but these are good examples.
+ -Sev-A (1 hour, 24/7)
+ -Sev-B (4 hours, 24/7)
+ -Sev-C (8 hours, business hours)
+ Make sure you're on the admin panel to do this. Go to "Manage" then "SLA" and click "Add New SLA Plan". Enter the examples then save.
+
+                                                                                                       
+                                                                                                       
+                                                                                                       
+                                                                                                       
+                                                                                                       
+                                                                                                       
+                                                                                                       
