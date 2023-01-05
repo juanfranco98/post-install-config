@@ -70,7 +70,7 @@ Continuiue by creating the Teams "Level I Support" and "Level II Support". From 
 <br />
 
 <p>
-<img src="https://i.imgur.com/iottNGH.png" height="40 width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iottNGH.png" height="40% width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  Lets now create some users(customers) by going to the "Agent Panel" then "Users" and "Add New". Follow the same steps from when we created Jane and John.
